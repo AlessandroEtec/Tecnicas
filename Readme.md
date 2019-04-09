@@ -3,7 +3,7 @@ Primeiro Projeto usando controle de Versão
 
 # Github
 Primeiro Projeto usando controle de Versão 
-![Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png =100x200)
+![Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png){width: 200px}
 
 Ajuda: [Git](https://git-scm.com/doc)
 
