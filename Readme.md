@@ -5,6 +5,7 @@ Ajuda: [Git](https://git-scm.com/doc)
 
 ## Comandos
 
-Comando | Resultado
---------|----------
-git add | Adiciona o arquivo
+Comando   | Resultado
+--------  |----------
+git init  | Inializa um repositório
+git add   | Adiciona o arquivo
