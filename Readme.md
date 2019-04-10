@@ -10,3 +10,4 @@ Comando   | Resultado
 --------  |----------
 git init  | Inializa um repositório
 git add   | Adiciona o arquivo
+git status | Status do arquivo
