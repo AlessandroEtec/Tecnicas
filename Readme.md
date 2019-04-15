@@ -11,4 +11,4 @@ Comando   | Resultado
 git init  | Inializa um repositório
 git add   | Adiciona o arquivo
 git status | Status do arquivo
-git commit | Grava o status
+git commit | Efetua o commit
