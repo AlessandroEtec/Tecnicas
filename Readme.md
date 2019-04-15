@@ -8,7 +8,7 @@ Ajuda: [Git](https://git-scm.com/doc)
 
 Comando   | Resultado
 --------  |----------
-git init  | Inializa um repositório
+git init  | Inicializa um repositório
 git add   | Adiciona o arquivo
 git status | Status do arquivo
 git commit | Efetua o commit
