@@ -31,3 +31,8 @@ git init            |   Inicializa um repositório
 git add             |   Adiciona o arquivo
 git status          |   Status do arquivo
 git commit          |   Efetua o commit
+git log             |   Exibe os logs do commit
+git shortlog        |   Exibe os logs de forma resumida
+git shortlog -sn    |   Quantidade de logs
+git diff            |   Exibe as modificações feitas no arquivo antes de efetuar o commit
+
