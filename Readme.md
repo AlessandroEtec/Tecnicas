@@ -21,7 +21,9 @@ Ajuda: [Git](https://git-scm.com/doc)
 ```git config user.name```   
  
 #### Não salvar as credenciais no Windows
-```git config  --system --unset credential.helper```   
+```git config --system --unset credential.helper
+
+```git config --system credential.helper cache```
 
 ## Comandos
 
